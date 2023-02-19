@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(27,137, 14, 50%);
+    
+}
+h1{
+    color:yellow;
+}
+b{
+    color:yellow;
+}
+p{
+    font-family: "Bubblegum Sans";
+    text-align: left;
+    background-color: cyan;
+    font-size: 15px;
+}
